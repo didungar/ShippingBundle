@@ -1,0 +1,4 @@
+services:
+#    did_ungar_shipping.example:
+#        class: DidUngar\ShippingBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
